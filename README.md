@@ -22,13 +22,7 @@ A simple but reliable random password generator with configurable parameters suc
 ## Install
 
 ```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
+clone the repo and open it up!
 ```
 
 ## Author
