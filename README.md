@@ -11,7 +11,7 @@
 
 A simple but reliable random password generator with configurable parameters such as legnth and allowed special characters. 
 
-![password_gen](password_.PNG)
+![password_gen](password_gen.PNG)
 
 ## Technology
 	
